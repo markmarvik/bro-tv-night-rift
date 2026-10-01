@@ -64,4 +64,4 @@ A few calls were tighter or looser than a single line of the spec, so the last p
 - Contact damage has 0.45s of hurt iframes, plus a gap per enemy, so a crowd does not drain HP every frame.
 - The hub is a button studio so the targets stay large on a phone.
 
-GitHub Free cannot publish Pages from a private repo. This repo stays private. Play it from the local server above. Say if you want the repo public, and it can go to `https://markmarvik.github.io/bro-tv-night-rift/`.
+The public site is https://markmarvik.github.io/bro-tv-night-rift/. The first load still fetches Phaser from the CDN. After that, the game stays on the device.
